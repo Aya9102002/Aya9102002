@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Aya Tammam 👋</h1>
+<h1>Hi, I'm Aya Tammam 👋</h1>
 
-<p align="center">
+<p>
   <b>Computer Engineering Graduate · Backend Developer</b><br>
   An-Najah National University, Palestine 🇵🇸
 </p>
