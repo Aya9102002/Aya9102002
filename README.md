@@ -1,9 +1,7 @@
-<h1>Hi, I'm Aya Tammam 👋</h1>
+# Hi, I'm Aya Tammam 👋
 
-<p>
-  <b>Computer Engineering Graduate · Backend Developer</b><br>
-  An-Najah National University, Palestine 🇵🇸
-</p>
+**Computer Engineering Graduate · Backend Developer**  
+An-Najah National University, Palestine 🇵🇸
 
 ---
 
@@ -59,6 +57,4 @@ Features: Real-time ball tracking with OAK-D camera, trajectory prediction using
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aya9102002&show_icons=true&theme=default&hide_border=true" alt="Aya's GitHub stats" />
-</p>
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aya9102002&show_icons=true&theme=default&hide_border=true)
